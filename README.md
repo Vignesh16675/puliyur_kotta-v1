@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="IMG-20211019-WA0106.jpg " width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="puliyur_kotta-v1" src="https://img.shields.io/badge/puliyur_kotta-v1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
